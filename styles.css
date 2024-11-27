@@ -1,0 +1,34 @@
+body {
+color:hotpink;
+background:lightpink;
+}
+header {
+    border-bottom: solid 2px rgb(232, 131, 192);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(236, 99, 163);
+}
+body {
+    color: palevioletred;
+    background: lightpink;
+    margin: 0px;
+}
+
+header {
+    border-bottom: solid 2px rgb(246, 151, 194);
+    padding: 20px;
+    font-size: 32px;
+    color:rgb(243, 133, 151);
+}
+
+section {
+    background: rgb(255, 212, 225);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
